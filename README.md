@@ -1,5 +1,8 @@
-# loja
+# LOJA 
 Boas Práticas de Programação
+
+## Sobre o Projeto
+Trata-se de um sistema que simula uma loja onde orçamentos são feitos para verificar a possibilidade de descontos, bem como calcular o valor do imposto devido sobre o produto adquirido. 
 
 Projeto desenvolvido com base no curso da Alura de Design Patterns, utilizando os principais padrões de projeto:
 
@@ -11,3 +14,6 @@ Projeto desenvolvido com base no curso da Alura de Design Patterns, utilizando o
 * Observer -> classes que estão observando, são ouvintes, listeners, estão aguardando serem chamadas. Assim que forem chamadas irão executar o código.
 
 Padrões de projetos são soluções generalistas para problemas recorrentes durante o desenvolvimento de um software.
+
+Como o objetivo do projeto foi apenas demonstrar os design patterns, não houve comunicação com banco de dados, frameworks, criação de APIs, etc. 
+Utilizou-se apenas a linguagem Java. 
